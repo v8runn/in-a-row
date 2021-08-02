@@ -1,0 +1,4 @@
+# Do not track contents of these folders and files
+node_modules/
+client/node_modules/
+.env
